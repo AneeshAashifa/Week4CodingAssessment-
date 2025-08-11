@@ -1,0 +1,14 @@
+C:\Users\ANEESH AASHIFA\Week4CodingAssessment\Answer6\Answer6\bin\Debug\net9.0\Answer6.exe
+C:\Users\ANEESH AASHIFA\Week4CodingAssessment\Answer6\Answer6\bin\Debug\net9.0\Answer6.deps.json
+C:\Users\ANEESH AASHIFA\Week4CodingAssessment\Answer6\Answer6\bin\Debug\net9.0\Answer6.runtimeconfig.json
+C:\Users\ANEESH AASHIFA\Week4CodingAssessment\Answer6\Answer6\bin\Debug\net9.0\Answer6.dll
+C:\Users\ANEESH AASHIFA\Week4CodingAssessment\Answer6\Answer6\bin\Debug\net9.0\Answer6.pdb
+C:\Users\ANEESH AASHIFA\Week4CodingAssessment\Answer6\Answer6\obj\Debug\net9.0\Answer6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANEESH AASHIFA\Week4CodingAssessment\Answer6\Answer6\obj\Debug\net9.0\Answer6.AssemblyInfoInputs.cache
+C:\Users\ANEESH AASHIFA\Week4CodingAssessment\Answer6\Answer6\obj\Debug\net9.0\Answer6.AssemblyInfo.cs
+C:\Users\ANEESH AASHIFA\Week4CodingAssessment\Answer6\Answer6\obj\Debug\net9.0\Answer6.csproj.CoreCompileInputs.cache
+C:\Users\ANEESH AASHIFA\Week4CodingAssessment\Answer6\Answer6\obj\Debug\net9.0\Answer6.dll
+C:\Users\ANEESH AASHIFA\Week4CodingAssessment\Answer6\Answer6\obj\Debug\net9.0\refint\Answer6.dll
+C:\Users\ANEESH AASHIFA\Week4CodingAssessment\Answer6\Answer6\obj\Debug\net9.0\Answer6.pdb
+C:\Users\ANEESH AASHIFA\Week4CodingAssessment\Answer6\Answer6\obj\Debug\net9.0\Answer6.genruntimeconfig.cache
+C:\Users\ANEESH AASHIFA\Week4CodingAssessment\Answer6\Answer6\obj\Debug\net9.0\ref\Answer6.dll
